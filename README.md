@@ -1,35 +1,44 @@
-#TextUtils
+# TextUtils
+
 TextUtils is a versatile React web application designed to assist you with all your text manipulation needs! Whether you want to convert your text to uppercase, capitalize each word like in a title, or perform other text-related operations, TextUtils has got you covered.
 
-##Features:
-Case Conversion: Easily convert your text to uppercase or capitalize each word in a title-like format.
+## Features:
 
-Text Analysis: Get quick insights into your text, including the number of words, characters, and an estimated reading time.
+- **Case Conversion:** Easily convert your text to uppercase or capitalize each word in a title-like format.
 
-##Dark Mode: Enable dark mode for a comfortable and stylish viewing experience.
+- **Text Analysis:** Get quick insights into your text, including the number of words, characters, and an estimated reading time.
 
-##How to Use:
-Enter Text: Simply enter or paste your text into the provided input area.
+- **Dark Mode:** Enable dark mode for a comfortable and stylish viewing experience.
 
-Choose Operation: Select the desired operation from the available options, such as converting to uppercase or analyzing the text.
+## How to Use:
 
-Text Summary: View a summary of your text, including word count, character count, and estimated reading time.
+1. **Enter Text:** Simply enter or paste your text into the provided input area.
 
-##Preview: See a live preview of your text with the chosen operation applied.
+2. **Choose Operation:** Select the desired operation from the available options, such as converting to uppercase or analyzing the text.
 
-##Quick Links:
-Live Demo (Replace with your live demo link)
+3. **Text Summary:** View a summary of your text, including word count, character count, and estimated reading time.
 
-About (Replace with your about page link)
+## Preview: 
 
-##Getting Started:
+See a live preview of your text with the chosen operation applied.
+
+## Quick Links:
+
+- [Live Demo](#) *(Replace with your live demo link)*
+
+- [About](#) *(Replace with your about page link)*
+
+## Getting Started:
+
 To run this application locally, follow these steps:
 
-##Clone this repository:
+1. **Clone this repository:**
 
-bash
-Copy code
-git clone https://github.com/your-username/TextUtils.git
+   ```bash
+   git clone https://github.com/your-username/TextUtils.git
+
+
+
 Navigate to the project directory:
 
 bash
