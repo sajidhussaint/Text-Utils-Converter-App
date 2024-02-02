@@ -24,9 +24,8 @@ See a live preview of your text with the chosen operation applied.
 
 ## Quick Links:
 
-- [Live Demo](#) *(Replace with your live demo link)*
+- [Live Demo](https://text-utils-converter-app.vercel.app/)
 
-- [About](#) *(Replace with your about page link)*
 
 ## Getting Started:
 
